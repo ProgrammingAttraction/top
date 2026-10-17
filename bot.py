@@ -90,8 +90,8 @@ WITHDRAW_CITY = "Madhabdi"
 WITHDRAW_STREET = "Niketon House (24/7)"
 EXPECTED_CURRENCY_ID = None
 
-SUPPORT_USERNAME = "@depositeandwithdrawal_service"
-SUPPORT_LINK = "https://t.me/depositeandwithdrawal_service"
+SUPPORT_USERNAME = "@Usd_topup_service"
+SUPPORT_LINK = "https://t.me/Usd_topup_service"
 PROMO_CODE = "diposite19"
 
 SUPPORT_MESSAGE = (
@@ -2552,7 +2552,7 @@ async def send_welcome_notice(update, context):
         "📣 মেনুয়াল👨‍💻👨‍💻 এবং রোবট👍👍 উভয় ডিপোজিট চালু রয়েছে🔥\n\n"
         "📣 যার যেভাবে ইচ্ছে করেন😱\n\n"
         "    👇👇👇👇👇\n"
-        "👉 @depositeandwithdrawal_service 👨‍💻 (মানুষ)\n"
+        "👉 @Usd_topup_service 👨‍💻 (মানুষ)\n"
         "👉 @onexbbbot 👍👍 (রোবট)\n"
         "         👆👆👆👆👆\n"
         "    <b>৫ সেকেন্ডে ডিপোজিট | উইথড্র</b>\n\n"
