@@ -60,7 +60,7 @@ INQUIRY_ORDER_API_URL = "https://asmm.worldxxpp.com/api/inquiryOrder"
 PAYMENT_ORDER_API_URL = "https://asmm.worldxxpp.com/api/createPaymentOrder"
 
 CALLBACK_HOST = os.getenv("CALLBACK_HOST", "0.0.0.0")
-CALLBACK_PORT = int(os.getenv("PORT") or os.getenv("CALLBACK_PORT", "8080"))
+CALLBACK_PORT = int(os.getenv("PORT") or os.getenv("CALLBACK_PORT", "8500"))
 CALLBACK_PATH = os.getenv("CALLBACK_PATH", "/api/callback")
 
 _default_callback = f"https://bdtopup.onexbbbot.com{CALLBACK_PATH}"
